@@ -2,4 +2,8 @@
 
 *smokeNIRmah* is an R project for smoke NIR process.
 
-Some of the codes and NIR data are not published due to funding requirements. The present R code can also be applied to the other open source data set. 
+The NIR data are not published due to company funding requirements.
+
+The other open source NIR data can be used to validate this method.
+
+
